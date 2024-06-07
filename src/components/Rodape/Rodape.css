@@ -1,6 +1,6 @@
 .footer {
     background-color: #6278F7;
-    background-image: url("./public/image/fundo.png");
+    background-image: url("/public/image/fundo.png");
     height: 213px;
     overflow: hidden;
     background-position: left;
