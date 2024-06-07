@@ -66,9 +66,6 @@ function App() {
         colaboradores={colaboradores.filter(colaborador => colaborador.time === time.nome)}
       />)}
       <Rodape />
-      
-      
-    
     </>
   )
 }
