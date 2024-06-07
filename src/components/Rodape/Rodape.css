@@ -1,0 +1,23 @@
+.footer {
+    background-color: #6278F7;
+    background-image: url("./public/image/fundo.png");
+    height: 213px;
+    overflow: hidden;
+    background-position: left;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.redes {
+    display: flex;
+    justify-content: space-around;
+    width: 15%;
+}
+
+.copyright {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: montserrat;
+    font-weight: 400;
+}
