@@ -49,7 +49,8 @@
     right: -10px;
     top: -10px;
     cursor: pointer;
-    background-color: red;
-    border-radius: 50%;
-    width: 20px;
+}
+
+.favoritar {
+    margin-top: 20px;
 }
